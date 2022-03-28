@@ -1,5 +1,6 @@
 # SortingAlgoritmalar-
 # Proje 1 - Insertion Sort
+--- 
 [22,27,16,2,18,6] -> Insertion Sort
 1.	Yukarı verilen dizinin sort türüne göre aşamalarını yazınız.
 - [22,27,16,2,18,6]
@@ -26,6 +27,7 @@
 - [2,3,4,5,6,9,8,15,7]
 
 # Proje 2 - Merge Sort
+----
 1. [16,21,11,8,12,22] -> Merge Sort
 Yukarıdaki dizinin sort türüne göre aşamalarını yazınız.
 - [16,21,11] - [8,12,22]
@@ -37,4 +39,18 @@ Yukarıdaki dizinin sort türüne göre aşamalarını yazınız.
 2. Big-O gösterimini yazınız.
 - O(nlogn)
 
+# Proje 3 - Binary Search Tree
+--- 
+1. [7, 5, 1, 8, 3, 6, 0, 9, 4, 2] dizisinin Binary-Search-Tree aşamalarını yazınız.
+
+Örnek: root x'dir. root'un sağından y bulunur. Solunda z bulunur vb.
+```
+            5
+           / \
+          3   6
+         / \   \
+        1   4   8
+       / \     / \
+      0   2   7   9                    
+```
 [PatikaDev](www.patika.dev)
